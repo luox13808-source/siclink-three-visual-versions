@@ -1,0 +1,165 @@
+{
+  "sideNav": ["首页", "应用场景", "核心技术", "开源生态", "加入我们"],
+  "hero": {
+    "title": "加速硅碳互联，延展生命边界",
+    "subtitleLines": [
+      "SiClink 正在构建具备高带宽、双向I/O、面向开发者的脑机接口平台"
+    ],
+    "scrollCta": "继续探索 ↓",
+    "heroVideoAlt": "SiClink 首页品牌背景视频",
+    "positionVideoAlt": "应用场景演示视频"
+  },
+  "position": {
+    "sectionTitle": "应用场景",
+    "headline": "视觉重建技术：让不可能被看见",
+    "body": "通过视觉解码与高精度神经刺激算法，实现从感知到写入的视觉重建闭环，从大脑看见世界。"
+  },
+  "vision": {
+    "sectionTitle": "愿景",
+    "headline": "思想化为信号，连接变成现实",
+    "bodyLines": [
+      "SiClink 希望构建连接大脑与外部世界的视觉接口，让视觉在人与机器之间双向流动。",
+      "我们探索解析人的视觉神经活动，将其重建为机器可理解的视觉信息，并探索将外部视觉信息传递至神经系统，为视觉感知重建提供新的可能。"
+    ]
+  },
+  "core": {
+    "title": "核心技术",
+    "modules": [
+      {
+        "title": "双向柔性电极",
+        "body": "打通硅碳连接的物理界面",
+        "image": "/images/coretech01.png"
+      },
+      {
+        "title": "神经数据工厂",
+        "body": "生产高质量侵入式神经数据集",
+        "image": "/images/coretech02.png"
+      },
+      {
+        "title": "神经模型平台",
+        "body": "构建一站式部署的 BCI 开发平台",
+        "image": "/images/coretech03.png"
+      }
+    ]
+  },
+  "openSource": {
+    "sectionTitle": "开源生态",
+    "bodyLines": [
+      "让每一位开发者从可信的起点出发，",
+      "意念所及，硅碳互联。"
+    ],
+    "diagramAlt": "SiClink 侵入式脑机接口 I/O 框架技术示意图",
+    "videoAlt": "开源生态背景动效视频",
+    "cta": "访问 GitHub",
+    "ctaUrl": "https://github.com/siclink"
+  },
+  "community": {
+    "sectionTitle": "共创",
+    "bodyLines": [
+      "欢迎敢于破解未知难题的探索者加入"
+    ],
+    "videoAlt": "共创背景动效视频",
+    "cta": "加入我们",
+    "ctaUrl": "/join-us"
+  },
+  "footer": {
+    "tagline": "Think it, Link it.",
+    "motto": "加速硅碳互联，延展生命边界。",
+    "copyright": "© SiClink. All rights reserved.",
+    "wechatModalTitle": "SiClink 微信公众号",
+    "wechatModalHint": "微信扫码关注公众号",
+    "links": [
+      {
+        "label": "微信公众号",
+        "href": "#",
+        "external": false,
+        "icon": "/images/wechat.svg",
+        "action": "wechat-qr"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/siclink2025?s=216",
+        "external": true,
+        "icon": "/images/x.svg"
+      },
+      {
+        "label": "领英",
+        "href": "https://www.linkedin.com/company/siclink/",
+        "external": true,
+        "icon": "/images/linkeln.svg"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/siclink",
+        "external": true,
+        "icon": "/images/github.svg"
+      },
+      {
+        "label": "邮箱",
+        "href": "mailto:algorithms@siclink.com",
+        "external": false,
+        "icon": "/images/email.svg"
+      }
+    ]
+  },
+  "joinUs": {
+    "tabs": {
+      "team": "团队构成",
+      "about": "关于我们"
+    },
+    "teams": [
+      {
+        "id": "systems",
+        "title": "系统工程",
+        "image": "/images/系统工程.png"
+      },
+      {
+        "id": "animal",
+        "title": "动物实验",
+        "image": "/images/动物实验.png"
+      },
+      {
+        "id": "electrode",
+        "title": "电极研发",
+        "image": "/images/电极研发.png"
+      },
+      {
+        "id": "algorithm",
+        "title": "数据算法",
+        "image": "/images/数据算法.png"
+      },
+      {
+        "id": "software",
+        "title": "软件产品",
+        "image": "/images/软件产品.png"
+      }
+    ],
+    "cta": "查看开放岗位",
+    "ctaUrl": "https://www.zhipin.com/gongsi/job/a9ccbfbcb2e89db203J42N-1GVE~.html?ka=all-jobs-top",
+    "about": {
+      "sections": [
+        {
+          "label": "01",
+          "title": "起点",
+          "headline": "从「最后一微米」开始",
+          "bodyLines": [
+            "SiClink 成立于 2025 年 12 月，名称源自 Silicon-Carbon Link，",
+            "寓意连接硅基电子系统与碳基生命系统。团队长期深耕超柔神经界面、",
+            "神经刺激与视觉解码，并已开展视觉皮层信号记录、自然场景图像重建及植入技术研究。",
+            "SiClink 正在将这些积累转化为稳定、高带宽、双向的神经信息通道，",
+            "推动脑机接口从单点技术走向完整系统。"
+          ]
+        },
+        {
+          "label": "02",
+          "title": "价值观",
+          "headline": "主动推动结果，以开放连接力量，以严谨确保可靠。"
+        }
+      ],
+      "closing": {
+        "title": "与我们一起，连接未来",
+        "body": "SiClink 汇集来自神经科学、硬件、算法、软件与产品领域的探索者，共同构建下一代脑机接口系统。"
+      }
+    }
+  }
+}

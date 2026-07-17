@@ -1,0 +1,163 @@
+{
+  "sideNav": ["Home", "Scenarios", "Core Tech", "Open Ecosystem", "Join Us"],
+  "hero": {
+    "titleLines": [
+      "Accelerating silicon–carbon connectivity.",
+      "Extending the boundaries of life"
+    ],
+    "subtitleLines": [
+      "SiClink is building a high-bandwidth, bidirectional I/O,",
+      "developer-oriented brain–computer interface platform."
+    ],
+    "scrollCta": "Continue Exploring ↓",
+    "heroVideoAlt": "SiClink homepage brand background video",
+    "positionVideoAlt": "Application scenarios demonstration video"
+  },
+  "position": {
+    "sectionTitle": "Application Scenarios",
+    "headline": "Visual Reconstruction: Making the Impossible Visible",
+    "body": "Through visual decoding and high-precision neural stimulation algorithms, we enable a closed loop of visual reconstruction from perception to write — letting the brain see the world again."
+  },
+  "vision": {
+    "sectionTitle": "Vision",
+    "headline": "Turning Thought into Signals. Turning Connection into Reality.",
+    "bodyLines": [
+      "SiClink is building a visual interface between the brain and the external world, enabling vision to flow both ways between humans and machines.",
+      "We explore how neural activity can be reconstructed as visual information, and how external visual information can support the restoration of visual perception."
+    ]
+  },
+  "core": {
+    "title": "Core Technologies",
+    "modules": [
+      {
+        "title": "Bidirectional Flexible Electrodes",
+        "body": "Bridging the physical interface between silicon and carbon",
+        "image": "/images/coretech01.png"
+      },
+      {
+        "title": "Neural Data Factory",
+        "body": "Producing high-quality invasive neural datasets",
+        "image": "/images/coretech02.png"
+      },
+      {
+        "title": "Neural Model Platform",
+        "body": "Building a one-stop BCI development platform for deployment",
+        "image": "/images/coretech03.png"
+      }
+    ]
+  },
+  "openSource": {
+    "sectionTitle": "Open Ecosystem",
+    "bodyLines": [
+      "Giving every developer a trusted starting point —",
+      "where intention reaches, silicon and carbon interconnect."
+    ],
+    "diagramAlt": "SiClink invasive BCI I/O framework technical diagram",
+    "videoAlt": "Open ecosystem ambient background video",
+    "cta": "Visit GitHub",
+    "ctaUrl": "https://github.com/siclink"
+  },
+  "community": {
+    "sectionTitle": "Create With Us",
+    "bodyLines": [
+      "We welcome explorers bold enough to tackle unsolved challenges."
+    ],
+    "videoAlt": "Create with us ambient background video",
+    "cta": "Join Us",
+    "ctaUrl": "/join-us"
+  },
+  "footer": {
+    "tagline": "Think it, Link it.",
+    "motto": "Accelerating silicon–carbon connectivity. Extending the boundaries of life.",
+    "copyright": "© SiClink. All rights reserved.",
+    "wechatModalTitle": "SiClink WeChat Official Account",
+    "wechatModalHint": "Scan with WeChat to follow",
+    "links": [
+      {
+        "label": "WeChat",
+        "href": "#",
+        "external": false,
+        "icon": "/images/wechat.svg",
+        "action": "wechat-qr"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/siclink2025?s=216",
+        "external": true,
+        "icon": "/images/x.svg"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/company/siclink/",
+        "external": true,
+        "icon": "/images/linkeln.svg"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/siclink",
+        "external": true,
+        "icon": "/images/github.svg"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:algorithms@siclink.com",
+        "external": false,
+        "icon": "/images/email.svg"
+      }
+    ]
+  },
+  "joinUs": {
+    "tabs": {
+      "team": "Our Teams",
+      "about": "About Us"
+    },
+    "teams": [
+      {
+        "id": "systems",
+        "title": "Systems Engineering",
+        "image": "/images/系统工程.png"
+      },
+      {
+        "id": "animal",
+        "title": "Animal Experiments",
+        "image": "/images/动物实验.png"
+      },
+      {
+        "id": "electrode",
+        "title": "Electrode R&D",
+        "image": "/images/电极研发.png"
+      },
+      {
+        "id": "algorithm",
+        "title": "Data Algorithms",
+        "image": "/images/数据算法.png"
+      },
+      {
+        "id": "software",
+        "title": "Software Products",
+        "image": "/images/软件产品.png"
+      }
+    ],
+    "cta": "View Open Positions",
+    "ctaUrl": "https://www.zhipin.com/gongsi/job/a9ccbfbcb2e89db203J42N-1GVE~.html?ka=all-jobs-top",
+    "about": {
+      "sections": [
+        {
+          "label": "01",
+          "title": "Our Beginning",
+          "headline": "Starting from the \"Last Micron\"",
+          "body": "Founded in December 2025, SiClink takes its name from \"Silicon-Carbon Link,\" reflecting its mission to connect electronic systems with biological neural networks. Building on long-term research in ultraflexible neural interfaces, neural stimulation, and visual decoding, SiClink is developing stable, high-bandwidth, bidirectional brain–computer interface systems."
+        },
+        {
+          "label": "02",
+          "title": "Our Values",
+          "headline": "Drive outcomes with ownership, connect strength through openness, and ensure reliability with rigor."
+        }
+      ],
+      "closing": {
+        "title": "Connect the Future With Us",
+        "body": "SiClink brings together explorers from neuroscience, hardware, algorithms, software, and product development to build the next generation of brain–computer interface systems."
+      }
+    }
+  }
+}
