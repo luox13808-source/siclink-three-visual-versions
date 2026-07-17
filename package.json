@@ -6,6 +6,8 @@
     "dev": "next dev -p 3006",
     "build": "next build",
     "start": "next start -p 3006",
+    "sites:dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext dev",
+    "sites:build": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext build",
     "lint": "next lint",
     "dev:3001": "next dev -p 3001",
     "dev:3002": "next dev -p 3002"
@@ -21,14 +23,21 @@
     "three": "^0.178.0"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.37.1",
     "@types/node": "^22.10.7",
     "@types/react": "^19.0.7",
     "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "@vitejs/plugin-rsc": "^0.5.26",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.18.0",
     "eslint-config-next": "^15.3.5",
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17",
-    "typescript": "^5.7.3"
-  }
+    "typescript": "^5.7.3",
+    "vinext": "^0.0.50",
+    "vite": "^8.0.13",
+    "wrangler": "^4.92.0"
+  },
+  "type": "module"
 }
